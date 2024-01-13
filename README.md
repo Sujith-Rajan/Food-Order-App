@@ -1,14 +1,11 @@
 # Restaurant/Food Delivery App
 
 A full-stack restaurant/food delivery app built with Next.js 14, React, Prisma, PostgreSQL, Auth.js, Stripe, Docker, React Query, and Zustand.
-![App Screenshot](/food_order_app (2).png)
-![App Screenshot](/food_order_app (1).png)
-![App Screenshot](/food_order_app (4).png)
-![App Screenshot](/food_order_app (7).png)
-![App Screenshot](/food_order_app (6).png)
-
-
-
+![food_order_app (2)](https://github.com/Sujith-Rajan/Food-Order-App/assets/140044515/76b9a8ef-6814-496d-a6da-abc505dfdee7)
+![food_order_app (1)](https://github.com/Sujith-Rajan/Food-Order-App/assets/140044515/f7bd338c-52c3-4d63-932a-257b68ab1483)
+![food_order_app (4)](https://github.com/Sujith-Rajan/Food-Order-App/assets/140044515/4cbd5c6d-e7ce-4041-b642-dab02fe55129)
+![food_order_app (7)](https://github.com/Sujith-Rajan/Food-Order-App/assets/140044515/a0844c73-6384-4740-a95c-201c21741044)
+![food_order_app (6)](https://github.com/Sujith-Rajan/Food-Order-App/assets/140044515/bfbc5f48-a3fb-4086-bb12-819ebd48c085)
 
 
 ## Table of Contents
