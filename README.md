@@ -1,11 +1,11 @@
 # Restaurant/Food Delivery App
 
 A full-stack restaurant/food delivery app built with Next.js 14, React, Prisma, PostgreSQL, Auth.js, Stripe, Docker, React Query, and Zustand.
-![Alt text](/public/food_order_app (2).png)
-![Alt text](/public/food_order_app (1).png)
-![Alt text](/public/food_order_app (4).png)
-![Alt text](/public/food_order_app (7).png)
-![Alt text](/public/food_order_app (6).png)
+![App Screenshot](/public/food_order_app (2).png)
+![App Screenshot](/public/food_order_app (1).png)
+![App Screenshot](/public/food_order_app (4).png)
+![App Screenshot](/public/food_order_app (7).png)
+![App Screenshot](/public/food_order_app (6).png)
 
 
 
